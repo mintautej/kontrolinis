@@ -1,0 +1,319 @@
+    1  git --version
+    2  git version
+    3  git config global list
+    4  git config --global --list
+    5  git config --global user.email malinauskas.edvinas@gmail.com
+    6  git config --global user.name EdvinasM
+    7  git config --global --list
+    8  
+    9  git config --global core.editor "'C:\Program Files\Notepad\notepad.exe' -multiInst -notabbar -nosession -noPlugin"
+   10  git config --global --list
+   11  clear
+   12  mkdir  git-pvz
+   13  cd g
+   14  git init
+   15  git status
+   16  git add.
+   17  git add .
+   18  git status
+   19  git status
+   20  git commit -m "added file add.txt
+   21  git commit -m "added file add.txt"
+   22  git status
+   23   
+   24   
+   25  clear
+   26  git status
+   27  git status
+   28  clear
+   29  git commit -m "added file add.txt"
+   30  clear
+   31  git commit -m "added file add.txt"
+   32  git status
+   33  git add .
+   34  git status
+   35  git log
+   36  git checkout master
+   37  git status
+   38  cd git-pvz/
+   39  git
+   40  get git
+   41  git clone git@github.com:mintautej/belekas.git
+   42  git status
+   43  git --version
+   44  git config --global --list
+   45  git config --global user.email "minte.jarmalaviciute@gmail.com"
+   46  get config --global user.name "Mintaute Jarmalaviciute"
+   47  get config --global --list
+   48  git config --global user.name "MintauteJ"
+   49  git config --global --list
+   50  git config --global core.editor "code --wait"
+   51  git congif --global --list
+   52  git help
+   53  git config --global --list
+   54  cd pvz-git/
+   55  git init
+   56  mkdir studentai
+   57  cd studentai
+   58  git init
+   59  echo "Mintaute" >> studentai.dat
+   60  git add studentai.dat
+   61  git status
+   62  git commit
+   63  git log
+   64  git commit -m "Labas"
+   65  git log
+   66  git status
+   67  git comit
+   68  git status
+   69  git add
+   70  git commit
+   71  git status
+   72  git add miau.txt
+   73  git status
+   74  git commit
+   75  git log
+   76  mkdir labukas
+   77  cd labukas
+   78  git init
+   79  echo "miau" >> labas.dat
+   80  git add labas.dat
+   81  git commit -m "vistiena"
+   82  git log
+   83  ssh-keygan -t ed25519 -C "minte.jarmalaviciute@gmail.com"
+   84  ssh-keygen -t ed25519 -C "minte.jarmalaviciute@gmail.com"
+   85  eval "$(ssh-agent -s)"
+   86  ssh-add ~/.ssh/id_ed25519
+   87  clip
+   88  clip < ~/.ssh/id_ed25519.pub
+   89  cd ..
+   90  git clone
+   91  git@github.com:mintautej/demo-mint.git
+   92  git clone git@github.com:mintautej/demo-mint.git
+   93  git log
+   94  echo "# demo-mint" >> README.md
+   95  git init
+   96  git add README.md
+   97  git commit -m "first commit"
+   98  git branch -M main
+   99  git remote add origin git@github.com:mintautej/demo-mint.git
+  100  git push -u origin main
+  101  mkdir miau
+  102  git add
+  103  git status
+  104  git commit
+  105  git push origin master
+  106  git clone git@github.com:mintautej/belekas.git
+  107  git status
+  108  git commit
+  109  git add
+  110  git add .naujas
+  111  git add .belekas
+  112  git status
+  113  git log
+  114  git commit
+  115  git commit -m <zinute>
+  116  git add .
+  117  git commit -m "Lorem"
+  118  git log
+  119  git push -u origin master
+  120  git remote add origin git@github.com:mintautej/belekas.git
+  121  git push -u origin master
+  122  git branch -M master
+  123  git push -u origin main
+  124  git clone git@github.com:mintautej/isnaujo.git
+  125  gir status
+  126  git status
+  127  git add.
+  128  git add .
+  129  git log
+  130  git add .
+  131  git status 
+  132  git add .
+  133  git clone git@github.com:mintautej/potential-giggle.git
+  134  git status
+  135  cd pavadinimas
+  136  cd potential-giggle
+  137  git status
+  138  git add .
+  139  git commit -m "naujas failas pridetas"
+  140  git branch nauja-saka
+  141  git log
+  142  git switch nauja-saka
+  143  code .
+  144  mkdir aplankas
+  145  git pull
+  146  git push origin main
+  147  git branch labas
+  148  mkdir minte
+  149  git add .
+  150  git commit -m "prideta"
+  151  git push origin
+  152  git push origin nauja-saka
+  153  git add .
+  154  git status
+  155  git switch -c nauja-saka
+  156  git switch nauja-saka
+  157  touch bandymas.txt
+  158  git add .
+  159  git status
+  160  git commit -m "naujas failas"
+  161  git push origin nauja-saka
+  162  git pull nauja-saka
+  163  git switch main
+  164  git pull
+  165  git switch main
+  166  git switch nauja-saka
+  167  git swtich main
+  168  git switch main
+  169  git status
+  170  git add .
+  171  git commit -m "redagavimai"
+  172  git origin main
+  173  git push origin main
+  174  git switch sakotis
+  175  git status
+  176  git add .
+  177  git commit -m "redagavau sakoti"
+  178  git push origin sakotis
+  179  git switch nauja-saka
+  180  git add .
+  181  git status
+  182  git add .
+  183  git status
+  184  git commit -m "redagavimas"
+  185  git puch origin nauja-saka
+  186  git push nauja-saka
+  187  git pish origin nauja-saka
+  188  git push origin nauja-saka
+  189  git init
+  190  git status
+  191  mkdir qwerty
+  192  cs qwerty
+  193  cd qwerty
+  194  git status
+  195  git init
+  196  got clone https://github.com/Juozasxlr/Biudzetas.git bandom
+  197  cd Mintej
+  198  git clone https://github.com/Juozasxlr/Biudzetas.git Minte
+  199  git status
+  200  git clone git@github.com:Juozasxlr/Biudzetas.git Minte
+  201  git clone git@github.com:Juozasxlr/Biudzetas.git Mintej
+  202  git Mintej
+  203  cd Mintej
+  204  git status
+  205  git switch -c Minte
+  206  git push
+  207  git pull
+  208  git push origin Minte
+  209  git log
+  210  git status
+  211  code .
+  212  git add
+  213  git status
+  214  git add.
+  215  git commit -m "Paredaguota"
+  216  code.
+  217  code .
+  218  git status
+  219  git add.
+  220  git add
+  221  code .
+  222  git status
+  223  git add .
+  224  git status
+  225  git commit -m "Pakeitimai"
+  226  git push origin Minte
+  227  vim
+  228  cd
+  229  cd ..
+  230  cd /
+  231  cd Desktop
+  232  cd /c/Users/Desktop
+  233  git init
+  234  git status
+  235  git clone https://github.com/kitas-gitas/git-praktinis-restore-reset.git
+  236  cd git-praktinis-restore-rest
+  237  ..
+  238  cd ..
+  239  cd Rytinis
+  240  cd git-praktinis-restore-reset
+  241  ls
+  242  cd ../
+  243  cd Rytinis
+  244  cd Desktop
+  245  cd Mintaute_JPvakaras
+  246  mkdir Mintaute_JPvakaras
+  247  cd Mintaute_JPvakaras
+  248  mkdir studentas.txt
+  249  delete studentas.txt
+  250  cd /Desktop
+  251  cd ../
+  252  cd /Rytinis
+  253  cd Rytinis
+  254  cd Desktop
+  255  cd Desktop
+  256  mkdir Mintaute_JP
+  257  cd Mintaute_JP
+  258  touch studentas.txt
+  259  git status
+  260  git add .
+  261  git commit -m "pirmas pakeitimas"
+  262  git status
+  263  git add .
+  264  git commit -m "antras pakeitimas"
+  265  touch logas.log
+  266  touch .gitignore
+  267  git init
+  268  gh repo create
+  269  instal gh
+  270  git remote add origin git@github.com:mintautej/kontrolinis.git
+  271  git branch -M main
+  272  git push -u origin main
+  273  git log
+  274  git log
+  275  git branch --all
+  276  git branch 
+  277  git init
+  278  touch studentas.txt
+  279  git add .
+  280  git commit -m "pirmas pridejimas"
+  281  git status
+  282  git log
+  283  git status
+  284  git add .
+  285  git commit -m "antras pridejimas"
+  286  touch logas.log
+  287  touch .gitignore
+  288  git status
+  289  git add .
+  290  git commit -m "ignoro pridejimas"
+  291  git remote add origin git@github.com:mintautej/kontrolinis.git
+  292  git branch -M main
+  293  git push -u origin main
+  294  git checkout -b jp2103
+  295  git status
+  296  git add .
+  297  git commit -m "grupes numerio pridejimas"
+  298  git pull
+  299  git checkout
+  300  git checkout main
+  301  git pull 
+  302  git switch jp2103
+  303  git merge main into jp2103
+  304  git merge main
+  305  git status
+  306  git add .
+  307  git commit -m "bandymas spresti konflikta"
+  308  git merge main
+  309  git push
+  310  git push --set-upstream origin jp2103
+  311  git checkout main
+  312  git pull
+  313  hit branch -d jp2103
+  314  git branch -d jp2103
+  315  git branch
+  316  git status
+  317  git add .
+  318  git commit -m "paskutinis commitas"
+  319  history > history.txt

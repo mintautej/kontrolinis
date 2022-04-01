@@ -1,0 +1,11 @@
+* 3087db8 paskutinis commitas
+| *   7dc57d5 bandymas spresti konflikta
+| |\  
+| |/  
+|/|   
+* | c52f8f6 Update studentas.txt
+| * 938a7e9 grupes numerio pridejimas
+|/  
+* 6fae39a ignoro pridejimas
+* e2fa27e antras pridejimas
+* 671db7f pirmas pridejimas
